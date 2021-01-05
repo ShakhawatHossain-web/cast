@@ -1,0 +1,89 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: brown;
+    font-size: 50px
+}
+
+span {
+    color: rgb(250, 163, 33);
+}
+
+.half {
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 2%;
+    float: left;
+}
+
+.half img {
+    width: 100%;
+    padding-top: 5%;
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+.banner {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+section {
+    height: 500px;
+}
+
+.link_b {
+    text-decoration: none;
+    background-image:linear-gradient(lightSalmon, tomato);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: seashell;
+}
+
+.half1 {
+    float: right;
+    width: 50%;    
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+}
+
+.half1 img {
+    width: 90%;
+}
+
+.banner2 {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.half2 {
+    padding: 50px;
+    margin: 50px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    float: right;
+
+}
+
+.exp-next {
+    background-image: url(image\ 11.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100px;
+}
+
+#full-stalk {
+    border-left: 7px solid;
+} 
+
+#full-sec {
+    border-left: 7px salmon solid; 
+    border-image: fill; 
+}
+
+footer {
+    text-align: center;
+}
